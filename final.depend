@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1477152760 source:d:\final\main.cpp
+	<iostream>
+
+1480346647 source:d:\tubes 1_tba_ kelompok 2_if3906\tubes 1_tba_ kelompok 2_if3906\program\main.cpp
+	<iostream>
+	"final.h"
+
+1480341644 d:\tubes 1_tba_ kelompok 2_if3906\tubes 1_tba_ kelompok 2_if3906\program\final.h
+
+1480498231 source:d:\sekolah\telkom\teori bahasa dan automata\tubes\program\main.cpp
+	<iostream>
+	"final.h"
+
+1480341644 d:\sekolah\telkom\teori bahasa dan automata\tubes\program\final.h
+
+1480498231 source:d:\sekolah\telkom\teori bahasa dan automata\tubes\tubes 2 tba kelompok 2 if 39-06\program\main.cpp
+	<iostream>
+	"final.h"
+
+1480341644 d:\sekolah\telkom\teori bahasa dan automata\tubes\tubes 2 tba kelompok 2 if 39-06\program\final.h
+
